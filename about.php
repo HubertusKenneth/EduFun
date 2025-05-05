@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>About - EduPulse</title>
+	<title>About - EduFun</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/welcome.css">
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
